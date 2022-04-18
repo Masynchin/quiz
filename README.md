@@ -2,7 +2,7 @@
 
 Web app to play quizzes
 
-:warning: WIP - any help are welcome.
+:warning: **WIP - any help are welcome.**
 
 ## What is it
 
